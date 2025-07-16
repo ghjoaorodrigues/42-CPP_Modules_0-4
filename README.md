@@ -1,4 +1,4 @@
-# 42 C++ Modules 0–4
+# 42 C++ Modules 00–04
 
 This repository indexes my progress through the first half of the C++ modules from the 42 curriculum. Each module is hosted in its own repository, showcasing my implementation of object-oriented programming principles, memory management, inheritance, and more.
 
